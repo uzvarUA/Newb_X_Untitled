@@ -13,4 +13,4 @@
 - Increasing SunMoon size to 1.4x
 - Slighty increase mist
 - Decrease rain blow mist
-> Information: If you using build 4 and above and there is still cloud cut out, then maybe your device is using powervr gpu, working well on mali, i dont know for adreno <:thumbs_up:1118554182694211715>
+
